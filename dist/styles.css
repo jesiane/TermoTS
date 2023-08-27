@@ -35,7 +35,7 @@ body {
   place-items: center;
   height: 100%;
 
-  background-color: #bebebe;
+  background-color: #f1dbdb;
   color: #2e2e2e;
   border-radius: 3px;
 
@@ -63,7 +63,7 @@ body {
 .grid-teclado > button:hover {
   background-color: transparent;
   
-  color: #32fe5e;
+  color: #03350e;
 
   font-weight: 800;
 }
